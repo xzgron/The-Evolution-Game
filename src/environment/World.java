@@ -1,3 +1,5 @@
+package environment;
+
 import javafx.scene.canvas.Canvas;
 
 /**
